@@ -1,23 +1,25 @@
 # HaXplore 2.0 - Submission Report Format
 
-This is the official code repository for _TEAM NAME_ . This _type of application_ was developed during HaXplore 2.0, 
+This is the official code repository for Trojan. This website was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-### _Team Name_
+### Trojan
 
-* _Member_
-* _Member_
+* P Aswini Kumar
+* A V Vysakh
+* Apoorve Shukla
+* Yash Raj
 
-#### _Project Name_
+#### Trojan
 
 
 #### Overview
 
-_Explain about your project, the vision behind it and how it helps enhance lifestyle, etc._
+Informative and interactive site for raising awareness in the society regarding health and fitness whose pupose is the empowerment and betterment of society.
 
 #### Technology used
 
-_Write about the technologies and tools used and how they were included and used in your application._
+We used HTML, CSS, Javascript and Vue js 
 
 #### Screenshots/Demo Video
 
@@ -29,12 +31,11 @@ _Tell in steps how can we setup your application. Also mention all relevant requ
 
 #### Tracks used
 
-_You were given several tracks to choose from in the problem statement. Tell which one did you choose and how does your
-application follow that track._
+N.A.
 
 #### AWS Services Used
 
-_Write in brief about how you used AWS service to improve your application._
+N.A.
 
 
 
