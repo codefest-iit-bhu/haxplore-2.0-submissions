@@ -17,7 +17,7 @@ Team mates -
 
 1.[CHAITANYA SAI](chaitanya.saig@s.amity.edu)
 
-2.[SANKOJU MANASA](sankoju.manasa@gmail.com)
+2.[SANKOJU MANASA](sankojumanasa2002@gmail.com)
 
 3.[RIYA PATRO](riya.patro@s.amity.edu)
 
