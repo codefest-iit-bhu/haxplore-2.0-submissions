@@ -1,18 +1,50 @@
+# HaXplore 2.0 - Submission Report Format
 
-# HaXplore 2.0, CodeFest 2021 Submissions
+This is the official code repository for _CELESTIAL BISCUIT_ . This _web application_ was developed during HaXplore 2.0,
+the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-## Submissions
-1. The Team Leader has to fork this repository using his/her GitHub Account. You can change the name of the fork repository as you wish. This repository will contain the complete submission, including the code, design and submission idea file.
-2. In Devfolio, update the Github submission link with the link to the above-forked repository.
-3. For the first phase of the hackathon, you have to rename the ***submission_README.md*** file to ***README.md*** and update it with your idea in the format specified in the file.
-4. The deadline to complete the above task is **27th March 6 PM sharp**.
+### _Celestial Biscuit_
 
-## Project Track:
-Choose from -
-- #### [Amazon Web Services Track](https://docs.google.com/document/d/16wxLl_8Eqw_bcjY28FnP3bc2YihB6pCN5aPAmF5An_o/edit?usp=sharing)
-- #### [Polygon - Hackathon Season Prize](https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c)
-- #### [Portis - Hackathon Season Prize](https://www.notion.so/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-e198dfd094a9411b8cd0f80d76a04a90)
-- #### [Tezos - Hackathon Season Prize](https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff)
+- _Nishtha Goyal_
+- _Pooja Gera_
+- _Shruthi Rao_
+- _Shrankhla Srivastava_
 
+#### _Shiwu - The soil detection and crop prediction application_
 
-You can find more details about the project tracks [here](https://drive.google.com/file/d/1699uvvBwiLcC8T6Cw9KYcHh-PysUI2448Vmz4Y7d7K8/view).
+#### Overview
+
+_Our aim is to create a soil detector which detects the soil type based on the image and suggests best crops to grow to promote sustainable agriculture and increase crop production._
+
+Our target audience includes farmers and gardening enthusiasts.
+Project Shiwu aims to cover three sustainable development goals - zero hunger, responsible consumption and production and life on land.
+
+We will be deploying our ML model using Flask on our website and users will be able to upload pictures of their soil and get suggestions on which is the best crop for them to grow in there.
+
+#### Technology used
+
+For designing we have used Figma, Photoshop, Illustrator, After Effects and Premier Pro.
+For frontend we are using HTML, CSS and Vanilla JavaScript.
+For backend we are utilising Flask framework.
+For machine learning we are creating a CNN model using Keras and Tensorflow.
+
+#### Screenshots/Demo Video
+
+_We are currently in the designing phase. Attaching the screenshots of the designs we have created below:_
+
+![alt text](2021-03-27 (1).png)
+![alt text](2021-03-27 (2).png)
+![alt text](2021-03-27 (3).png)
+![alt text](2021-03-27 (4).png)
+
+#### Usage
+
+_This website can be used right from your browser._
+
+#### Tracks used
+
+_We did not choose any specific track for creating our web application._
+
+#### AWS Services Used
+
+_We have not used any AWS Services for our web application._
