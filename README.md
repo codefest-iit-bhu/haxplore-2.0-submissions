@@ -13,3 +13,9 @@ near them using the app.
 
 Guess what? It removes all the above and many more!
 
+Team mates - 
+1.[CHAITANYA SAI](chaitanya.saig@s.amity.edu)
+2.[SANKOJU MANASA](sankoju.manasa@gmail.com)
+3.[RIYA PATRO](riya.patro@s.amity.edu)
+4.[BANDI PAVAN KUMAR](bandi.kumar@s.amity.edu)
+
