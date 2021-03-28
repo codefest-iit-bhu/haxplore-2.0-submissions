@@ -31,6 +31,7 @@ _Add some screens and a demo_
 This is a user friendly site which could be easily used
 For LINUX distros:
 First clone the master branch of the repository into your pc and then open the folder using the terminal with the help of the "cd" command.
+Then type the command "npm install" in the Terminal.
 Then run the code through a local host by typing "npm run dev" and then opening the link.
 If you don't have npm installed then u can check out the link- "https://linuxconfig.org/install-npm-on-linux" 
 
