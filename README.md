@@ -32,6 +32,11 @@ Guess what? It removes all the above and many more!
 
 [Park.ai Demo Video ](https://drive.google.com/file/d/1-qCiXpouc5tzsX8U-aXwSrFSjCoQ1jz3/view?usp=sharing)
 
+# Presentation(ppt) :
+
+[Park.ai ppt ](https://drive.google.com/file/d/1yjOP_oc5GCR5Af3qyaxcSxrgupLeRLiY/view?usp=sharing)
+
+
 # Tech Stack used
 
 * java
