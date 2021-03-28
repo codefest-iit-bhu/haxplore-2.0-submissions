@@ -1,18 +1,62 @@
+# HaXplore 2.0 - Submission Report Format
 
-# HaXplore 2.0, CodeFest 2021 Submissions
+This is the official code repository for park.ai. This application  was developed during HaXplore 2.0, 
+the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-## Submissions
-1. The Team Leader has to fork this repository using his/her GitHub Account. You can change the name of the fork repository as you wish. This repository will contain the complete submission, including the code, design and submission idea file.
-2. In Devfolio, update the Github submission link with the link to the above-forked repository.
-3. For the first phase of the hackathon, you have to rename the ***submission_README.md*** file to ***README.md*** and update it with your idea in the format specified in the file.
-4. The deadline to complete the above task is **27th March 6 PM sharp**.
+# park.ai
+> park anywhere and everywhere, legally!
 
-## Project Track:
-Choose from -
-- #### [Amazon Web Services Track](https://docs.google.com/document/d/16wxLl_8Eqw_bcjY28FnP3bc2YihB6pCN5aPAmF5An_o/edit?usp=sharing)
-- #### [Polygon - Hackathon Season Prize](https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c)
-- #### [Portis - Hackathon Season Prize](https://www.notion.so/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-e198dfd094a9411b8cd0f80d76a04a90)
-- #### [Tezos - Hackathon Season Prize](https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff)
+* [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
+
+* [SANKOJU MANASA](sankojumanasa2002@gmail.com)
+
+* [RIYA PATRO](riya.patro@s.amity.edu)
+
+* [BANDI PAVAN KUMAR](bandi.kumar@s.amity.edu)
+
+# Overview
+
+park.ai is a cross-platform application which allows people to host and park their vehicles at private parking spaces. 
+People can now host their own private parking spaces on a rental basis. It also allows the user to find available parking spaces
+near them using the app. 
+
+## Why park.ai?
+
+1) On any given working day approximately 40% of the roads in urban India are taken up for just parking the cars. 
+2) Tremendous pressure on parking spaces have led to serious concerns like traffic congestion, accidents, disproportionate demand and supply ratio, environmental hazards etc.
+3) Pollutants like oil and grease are washed off from the parking lots into the water bodies during the rains. The pollutants contaminate the water table and are also responsible for urban heat island effect. The pollutants it emits causes health hazards and may cause respiratory and cardiovascular damages.
+
+Guess what? It removes all the above and many more!
+
+# Demo Video :
+
+[Park.ai Demo Video ](https://drive.google.com/file/d/1-qCiXpouc5tzsX8U-aXwSrFSjCoQ1jz3/view?usp=sharing)
+
+# Presentation(ppt) :
+
+[Park.ai ppt ](https://drive.google.com/file/d/1yjOP_oc5GCR5Af3qyaxcSxrgupLeRLiY/view?usp=sharing)
 
 
-You can find more details about the project tracks [here](https://drive.google.com/file/d/1699uvvBwiLcC8T6Cw9KYcHh-PysUI2448Vmz4Y7d7K8/view).
+# Tech Stack used
+
+* java
+* python
+
+
+# Usage
+
+This is a user friendly application which could be easily used, 
+developed whole source code just need to run on android studio build an app run on the emulator or mobile using android studio or eclipse IDE .
+
+
+# Tracks used
+
+N.A.
+
+# AWS Services Used
+
+N.A.
+
+
+
+
