@@ -29,7 +29,7 @@ near them using the app.
 Guess what? It removes all the above and many more!
 
 
-# Technology used
+# Tech Stack used
 
 * java
 * python
