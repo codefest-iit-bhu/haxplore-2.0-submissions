@@ -38,7 +38,7 @@ Guess what? It removes all the above and many more!
 # Usage
 
 This is a user friendly application which could be easily used, 
-developed whole source code just need to run on android studio build an app run on the emulator or mobile
+developed whole source code just need to run on android studio build an app run on the emulator or mobile using android studio or eclipse IDE .
 
 
 # Tracks used
