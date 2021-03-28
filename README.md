@@ -1,5 +1,20 @@
+# HaXplore 2.0 - Submission Report Format
+
+This is the official code repository for park.ai. This application  was developed during HaXplore 2.0, 
+the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
+
 # park.ai
 > park anywhere and everywhere, legally!
+
+* [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
+
+* [SANKOJU MANASA](sankojumanasa2002@gmail.com)
+
+* [RIYA PATRO](riya.patro@s.amity.edu)
+
+* [BANDI PAVAN KUMAR](bandi.kumar@s.amity.edu)
+
+# Overview
 
 park.ai is a cross-platform application which allows people to host and park their vehicles at private parking spaces. 
 People can now host their own private parking spaces on a rental basis. It also allows the user to find available parking spaces
@@ -13,14 +28,27 @@ near them using the app.
 
 Guess what? It removes all the above and many more!
 
-Team mates - 
 
-1.[CHAITANYA SAI](chaitanya.saig@s.amity.edu)
+# Technology used
 
-2.[SANKOJU MANASA](sankojumanasa2002@gmail.com)
+* java
+* python
 
-3.[RIYA PATRO](riya.patro@s.amity.edu)
 
-4.[BANDI PAVAN KUMAR](bandi.kumar@s.amity.edu)
+# Usage
+
+This is a user friendly application which could be easily used :
+developed whole source code just need to run on android studio build an app run on the emulator or mobile
+
+
+# Tracks used
+
+N.A.
+
+# AWS Services Used
+
+N.A.
+
+
 
 
