@@ -22,8 +22,7 @@ Informative and interactive site for raising awareness in the society regarding 
 We used HTML, CSS, Javascript and Vue js 
 
 #### Screenshots/Demo Video
-
-_Add some screens and a demo_
+https://drive.google.com/drive/folders/1AI_6HTjbc2rtHJmZTk_QBxlHtVu5Zv41?usp=sharing
 
 
 #### Usage
@@ -31,9 +30,11 @@ _Add some screens and a demo_
 This is a user friendly site which could be easily used
 For LINUX distros:
 First clone the master branch of the repository into your pc and then open the folder using the terminal with the help of the "cd" command.
+(If you are not able to find the folder, then do check if you have written the name correctly or else try changing the location of the folder.)
 Then type the command "npm install" in the Terminal.
 Then run the code through a local host by typing "npm run dev" and then opening the link.
-If you don't have npm installed then u can check out the link- "https://linuxconfig.org/install-npm-on-linux" 
+If you don't have npm installed then u can check out the link- "https://linuxconfig.org/install-npm-on-linux".
+The above mentioned steps have been shown in the demo video.
 
 #### Tracks used
 
