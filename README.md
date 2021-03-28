@@ -28,6 +28,9 @@ near them using the app.
 
 Guess what? It removes all the above and many more!
 
+# Demo Video :
+
+[Park.ai Demo Video ](https://drive.google.com/file/d/1-qCiXpouc5tzsX8U-aXwSrFSjCoQ1jz3/view?usp=sharing)
 
 # Tech Stack used
 
