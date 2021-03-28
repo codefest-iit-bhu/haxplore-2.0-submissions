@@ -25,9 +25,14 @@ We used HTML, CSS, Javascript and Vue js
 
 _Add some screens and a demo_
 
+
 #### Usage
 
-_Tell in steps how can we setup your application. Also mention all relevant requirements and links._
+This is a user friendly site which could be easily used
+For LINUX distros:
+First clone the repository into your pc and then open the folder using the terminal with the help of the "cd" command
+Then run the code through a local host by typing "npm run dev" and then opening the link.
+If you don't have npm installed then u can check out the link- "https://linuxconfig.org/install-npm-on-linux" 
 
 #### Tracks used
 
